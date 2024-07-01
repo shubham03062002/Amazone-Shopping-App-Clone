@@ -15,8 +15,7 @@
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/shubham03062002/Amazon-Shopping-Clone
-
+   git clone https://github.com/shubham03062002/Amazone-Shopping-App-Clone
 2.Navigate to the project directory:
  cd Amazon Shopping Clone
 
